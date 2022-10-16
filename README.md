@@ -40,5 +40,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black">
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white"/>
+</p>
+ 
+<p>
+<img src="https://img.shields.io/badge/Gitlab-FC6D26?style=plastic&logo=Gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+</p>
  
 ![Jynstitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jynstitch&show_icons=true&theme=radical)
