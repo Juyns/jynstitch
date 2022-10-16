@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Profile
+### Profile
 <p>
 <a href="https://career.programmers.co.kr/pr/awwsb41_4605"><img src="https://img.shields.io/badge/Programmers-3776AB?style=flat-square&logo=Programmers&logoColor=white"/></a>
 <a href="https://jynstitch.notion.site/c0f9bd7b5e404e1bb6ceb88d78893435"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -22,13 +22,25 @@ Here are some ideas to get you started:
 
 <br>
 
-## Experiences & Careers
-Works Mobile Internship (2022.07 ~ 2022.09)
-Medical AI SW Engineer Internship (2022.03 ~ 2022.06)
-2021 카이스트 몰입캠프 (2021.12 ~ 2022.01)
+### Github Stats
+![Jynstitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jynstitch&show_icons=true&theme=radical)
 
+<br>
 
-## Skills
+### solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=awwsb41)](https://solved.ac/awwsb41)
+
+<br>
+
+### Experiences & Careers
+<p>Works Mobile Internship [2022.07 ~ 2022.09]</p>
+<p>Medical AI SW Engineer Internship [2022.03 ~ 2022.06]</p>
+<p>2021 카이스트 몰입캠프 [2021.12 ~ 2022.01]</p>
+
+<br>
+
+### Skills
 **Languages**
 
 <p>
@@ -74,12 +86,3 @@ Medical AI SW Engineer Internship (2022.03 ~ 2022.06)
 </p>
 
 <br>
-
-## Github Stats
-![Jynstitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jynstitch&show_icons=true&theme=radical)
-
-<br>
-
-## solved.ac
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=awwsb41)](https://solved.ac/awwsb41)
