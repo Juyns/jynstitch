@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 
 <br>
 
+## Experiences & Careers
+Works Mobile Internship (2022.07 ~ 2022.09)
+Medical AI SW Engineer Internship (2022.03 ~ 2022.06)
+2021 카이스트 몰입캠프 (2021.12 ~ 2022.01)
+
 
 ## Skills
 **Languages**
