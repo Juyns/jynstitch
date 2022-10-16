@@ -50,5 +50,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 </p>
- 
+
+
+### Github Stats
 ![Jynstitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jynstitch&show_icons=true&theme=radical)
+
+### solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=awwsb41)](https://solved.ac/awwsb41)
