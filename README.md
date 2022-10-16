@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
+<a href="https://jynstitch.notion.site/c0f9bd7b5e404e1bb6ceb88d78893435"><img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=Notion&logoColor=white"/></a>
+ 
+ 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black">
 
