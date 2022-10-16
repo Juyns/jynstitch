@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Profile
-
+## Profile
 <p>
 <a href="https://career.programmers.co.kr/pr/awwsb41_4605"><img src="https://img.shields.io/badge/Programmers-3776AB?style=flat-square&logo=Programmers&logoColor=white"/></a>
 <a href="https://jynstitch.notion.site/c0f9bd7b5e404e1bb6ceb88d78893435"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -24,8 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 
-### Skills
-
+## Skills
 **Languages**
 
 <p>
@@ -72,11 +70,11 @@ Here are some ideas to get you started:
 
 <br>
 
-### Github Stats
+## Github Stats
 ![Jynstitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jynstitch&show_icons=true&theme=radical)
 
 <br>
 
-### solved.ac
+## solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=awwsb41)](https://solved.ac/awwsb41)
