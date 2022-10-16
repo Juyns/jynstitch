@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Profile
+
 <p>
+<a href="https://career.programmers.co.kr/pr/awwsb41_4605"><img src="https://img.shields.io/badge/Programmers-3776AB?style=flat-square&logo=Programmers&logoColor=white"/></a>
 <a href="https://jynstitch.notion.site/c0f9bd7b5e404e1bb6ceb88d78893435"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
- <a href="https://career.programmers.co.kr/pr/awwsb41_4605"><img src="https://img.shields.io/badge/Programmers-3776AB?style=flat-square&logo=Programmers&logoColor=white"/></a>
 <a href="mailto:awwsb41@gmail.com"><img src="https://img.shields.io/badge/awwsb41@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
+<br>
+
 
 ### Skills
 
@@ -66,9 +70,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 </p>
 
+<br>
 
 ### Github Stats
 ![Jynstitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jynstitch&show_icons=true&theme=radical)
+
+<br>
 
 ### solved.ac
 [![Solved.ac
