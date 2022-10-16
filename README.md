@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 
 <br>
 
-### Github Stats
-![Jynstitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jynstitch&show_icons=true&theme=radical)
+### Github Status
+![Jynstitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jynstitch&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jynstitch&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
